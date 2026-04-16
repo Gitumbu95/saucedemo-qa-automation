@@ -36,5 +36,4 @@ The project follows an Agile, sprint‑by‑sprint approach:
 ## Key Outcome
 This project focuses on **how quality software is delivered**, not just how tests are written.
 
-``
 
